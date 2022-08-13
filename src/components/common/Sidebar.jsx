@@ -25,6 +25,7 @@ const Sidebar = () => {
                         download
                         className="mx-4"
                         target="_blank"
+                        rel="noreferrer"
                         onClick={()=>openRoute()}
                         href={`https://ico-dexo.exchange/wp-content/uploads/2022/07/Dexo-Whitepaper.pdf`}
                       >
