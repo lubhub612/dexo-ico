@@ -25,22 +25,22 @@ const JoinDexoCommunity = () => {
 
               <div className="d-flex align-items-center justify-content-center social-join-community my-5 py-4">
                 <span className="twittericon mx-2">
-                  <a href="https://twitter.com/Dexo_Official" target="_blank">
+                  <a href="https://twitter.com/Dexo_Official" target="_blank"  rel="noreferrer" >
                     <TwitterIcon />
                   </a>
                 </span>
                 <span className="telegramicon mx-2">
-                  <a href="https://t.me/DexoOfficial" target="_blank">
+                  <a href="https://t.me/DexoOfficial" target="_blank"  rel="noreferrer" >
                     <TelegramIcon />
                   </a>
                 </span>
                 <span className="discordicon mx-2">
-                  <a href="https://discord.com/invite/dexo" target="_blank">
+                  <a href="https://discord.com/invite/dexo" target="_blank"   rel="noreferrer" >
                     <DiscordIcon />
                   </a>
                 </span>
                 <span className="mediumicon mx-2">
-                  <a href="https://dexo-exchange.medium.com/" target="_blank">
+                  <a href="https://dexo-exchange.medium.com/" target="_blank"   rel="noreferrer" >
                     <MediumIcon />
                   </a>
                 </span>
