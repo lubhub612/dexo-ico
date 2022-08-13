@@ -35,6 +35,7 @@ const Hero = () => {
               <a
                 download
                 target="_blank"
+                rel="noreferrer"
                 href="https://ico-dexo.exchange/wp-content/uploads/2022/07/Dexo-Whitepaper.pdf"
               >
                 <button class="download-whitepaper-btn mt-2">
